@@ -1,6 +1,6 @@
 
 
-# MgNews <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  alt="CSS" width="70" height="60"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML" width="70" height="60" />
+# MgNews <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  alt="CSS" width="70" height="60"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML" width="70" height="60" /><img src="https://github.com/martageraldo/mgNews/blob/main/newsapi.jpg?raw=true" alt="NewsApi"/>
           
   Site de notícias com API e Angular .        
 
@@ -17,7 +17,7 @@
 
 
 
-Este projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli) versão 14.0.1. <br>
+Este projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli) versão 14.0.6. <br>
 
 
 ## <img src="https://user-images.githubusercontent.com/60014891/168324047-c0ccd0c7-3a0e-45c1-98a1-50ca64b82012.png" alt="phone" width="40"/> Contato: 
